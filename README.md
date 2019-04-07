@@ -1,2 +1,2 @@
 # test-python
-Python test project
+Python test project to test automated Travis build
